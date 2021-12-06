@@ -1,14 +1,8 @@
-﻿---
-title: Internet Download Manager 6.40.1 最新破解版
-date: 2021-11-24 05:51:17
-tags:
-
-categories: 下载工具
----
+﻿﻿﻿# Internet Download Manager 6.40.1 破解版 2021/12/6
 
 Internet Download Manager（IDM）是一种将下载速度提高多达5倍，恢复和计划下载的工具。
 
-![](https://gitee.com/dl999/pic/raw/master/windows/idm/idm.png) <!-- more -->
+![](https://gitee.com/dl999/pic/raw/master/windows/idm/idm.png)
 
 
 　　全面的下载错误恢复和恢复功能将由于连接丢失，网络问题，计算机关闭或意外断电而重新启动中断的下载或中断
