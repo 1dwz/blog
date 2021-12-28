@@ -1,4 +1,4 @@
-﻿﻿﻿# Internet Download Manager 6.40.1 破解版 2021/12/6
+﻿﻿# Internet Download Manager 6.40.1 破解版 2021/12/6
 
 Internet Download Manager（IDM）是一种将下载速度提高多达5倍，恢复和计划下载的工具。
 
