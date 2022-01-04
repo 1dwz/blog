@@ -1,8 +1,7 @@
-﻿﻿# Internet Download Manager 6.40.1 破解版 2021/12/6
-
+﻿
 Internet Download Manager（IDM）是一种将下载速度提高多达5倍，恢复和计划下载的工具。
 
-![](https://gitee.com/dl999/pic/raw/master/windows/idm/idm.png)
+![](https://gitee.com/dl999/pic/raw/master/windows/idm/idm.png) <!-- more -->
 
 
 　　全面的下载错误恢复和恢复功能将由于连接丢失，网络问题，计算机关闭或意外断电而重新启动中断的下载或中断
@@ -15,9 +14,8 @@ Internet Download Manager（IDM）是一种将下载速度提高多达5倍，恢
 
 　　其他功能还包括多语言支持，zip预览，下载类别，调度程序专业版，不同事件的声音，HTTPS支持，队列处理器，html帮助和教程，下载完成时增强的病毒防护，带配额的渐进式下载（对于使用某种连接的用户有用）公平访问策略或FAP（例如Direcway，DirectPC，Hughes等），内置的下载加速器等。
 
-　　6.38版增加了Windows10的兼容性，并为在线视频播放器增加了IDM下载面板。
 
-　　它还具有完整的Windows8.1（Windows8，Windows7和Vista）支持，页面抓取器，重新开发的计划程序和MMS协议支持。新版本还增加了对IE11和基于IE的浏览器的集成，重新设计和增强的下载引擎，对所有最新浏览器的独特高级集成，改进的工具栏以及许多其他改进和新功能。
+## 修改中文 左上角View-language- 简体中文
 
 
-[城通网盘 访问密码：8741](https://url29.ctfile.com/f/34572529-524420322-a14f0d)
+[城通网盘 访问密码：9855](https://url17.ctfile.com/d/34929017-46409366-e64221)
