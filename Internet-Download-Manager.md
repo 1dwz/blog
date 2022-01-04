@@ -1,5 +1,6 @@
-﻿
-Internet Download Manager（IDM）是一种将下载速度提高多达5倍，恢复和计划下载的工具。
+﻿#
+
+
 
 ![](https://gitee.com/dl999/pic/raw/master/windows/idm/idm.png) <!-- more -->
 
